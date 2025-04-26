@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Ro Spares",
+        "image": "ro-spares.png",
+        "categories": ["Pump", "Membrane", "SMPS"]
+    },
+    {
+        "id": 2,
+        "title": "Domestic RO System",
+        "image": "domestic-ro-system.png",
+        "categories": ["Diamond Model", "Swift Model", "Silver Model"]
+    },
+    {
+        "id": 3,
+        "title": "Commercial RO Plants",
+        "image": "commercial-ro-plants.png",
+        "categories": ["RO 50 LPH", "RO 100 LPH"]
+    },
+    {
+        "id": 4,
+        "title": "Kitchen Chimney",
+        "image": "kitchen-chimney.png",
+        "categories": ["60cm", "90cm"]
+    },
+    {
+        "id": 5,
+        "title": "SHELLER RO SYSTEM",
+        "image": "sheller-ro-system.png",
+        "categories": ["White Model", "Black Model", "Transparent Model"]
+    }
+]
